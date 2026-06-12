@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284449269263",
+    "project_id": "proyectofinalmovile-1d358",
+    "storage_bucket": "proyectofinalmovile-1d358.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284449269263:android:3c44ba446cd77e920ae57a",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionnewbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBBpHJFRvrZvAmr2MVLm2BJOwkd4_pOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
